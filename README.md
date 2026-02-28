@@ -32,8 +32,7 @@ This version features:
 
 ## 🚀 How to Run
 
-- **Windows:** Double click `run_game.bat` or run from terminal
-- **Mac/Linux:** `./run_game.sh` (make sure script is executable)
 - **Direct Python run:**  
 ```bash
 python main.py
+
